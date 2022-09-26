@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * _strchr - prints from the first occurrence of a char.
- * source string
- * tested char
+ * @s: source string
+ * @c: tested char
  *
  * Return: new string.
  */
